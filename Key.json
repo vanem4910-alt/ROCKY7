@@ -49,8 +49,8 @@
   "update": {
     "available": false,
     "force": false,
-    "version": "3.0",
-    "url": "https://example.com/update.apk"
+    "version": "0.2.9",
+    "url": "https://rockypapa.netlify.app/"
   },
   "blacklist": [
     "BANNED_DEVICE_ID_1",
@@ -149,3 +149,4 @@
     }
   }
 }
+
