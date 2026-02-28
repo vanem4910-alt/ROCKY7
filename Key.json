@@ -128,7 +128,7 @@
     "ADMIN_ACCESS": {
       "type": "lifetime",
       "devices": [
-        "YOUR_PERSONAL_DEVICE_ID"
+        "b48cf1592480f213"
       ],
       "notify": false,
       "toast": "👑 Welcome Owner"
@@ -144,7 +144,7 @@
       "type": "date",
       "interval": "everytime",
       "notify": true,
-      "value": "2025-11-25",
+      "value": "2026-3-28",
       "toast": "Today Key"
     }
   }
